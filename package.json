@@ -1,0 +1,21 @@
+{
+  "name": "gemini",
+  "version": "1.0.0",
+  "description": "gemini project react-node js",
+  "keywords": [
+    "gemini"
+  ],
+  "license": "ISC",
+  "author": "jahnavi rai",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^0.10.0",
+    "@google/generative-ai": "^0.24.1",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
